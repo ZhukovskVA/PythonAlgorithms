@@ -1,2 +1,2 @@
-# BinarySearchMethod
-Implementation of the Bisection Method for the freeCodeCamp project
+# PythonAlgorithms
+Implementation of the Python Algorithms for the freeCodeCamp certification.
